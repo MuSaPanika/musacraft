@@ -6,11 +6,14 @@
 >>> Photoshop
 >>> Afer Efects
 >>> Primer Pro
+>>> Illustrator
 >>> VegasPro
 #
 > 3D График♟
 >> Cinema4d
 >> Blander
 >> May
-> Первый уровень цитирования
+#
+
+#
 # ...:: ᘻᑘSᗩᑢᖇᗩᖴᖶ ::...
