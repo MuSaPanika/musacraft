@@ -8,7 +8,7 @@
 >>> Primer Pro
 > 3D График♟
 >> Cinema4d
->Первый уровень цитирования
+> Первый уровень цитирования
 #### (っ◔◡◔)っ Photoshop,After,Primer,Cinema4d,Blender,MAY,VegasPro, 
 #### 
 # ...:: ᘻᑘSᗩᑢᖇᗩᖴᖶ ::...
