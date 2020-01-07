@@ -8,11 +8,10 @@
 >>> Primer Pro
 >>> Illustrator
 >>> VegasPro
-#
-> 3D График♟
->> Cinema4d
->> Blander
->> May
+>> 3D График♟
+>>> Cinema4d
+>>> Blander
+>>> May
 #
 
 #
