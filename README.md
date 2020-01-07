@@ -8,11 +8,17 @@
 >>> Primer Pro
 >>> Illustrator
 >>> VegasPro
+#
 >> 3D График♟
 >>> Cinema4d
 >>> Blander
 >>> May
 #
-
+>>  FRONT-END Developer♟
+>>> FTP
+>>> PHP
+>>>> HTML
+>>>> CSS
+>>>> JS
 #
 # ...:: ᘻᑘSᗩᑢᖇᗩᖴᖶ ::...
